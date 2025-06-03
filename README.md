@@ -1,1 +1,2 @@
 # odin-recipes
+This project demonstrates my ability to develop a website that hosts multiple web pages, implement internal linking between them, upload and manage image assets, and control the behavior and display settings of each individual page, including their specific content.
